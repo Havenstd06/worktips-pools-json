@@ -1,0 +1,46 @@
+{
+    "pools" : [
+            {
+            "name" : "wtippool.worktips.info",
+            "url" : "http://wtippool.worktips.info/",
+            "api" : "http://199.247.21.36:8117",
+            "type" : "forknote"
+            },
+            {
+            "name" : "worktips.dru.wtf",
+            "url" : "https://worktips.dru.wtf",
+            "api" : "https://api.worktips.dru.wtf",
+            "type" : "nodejs"
+            },
+            {
+            "name" : "mineallcrypto.com/works",
+            "url" : "https://mineallcrypto.com/works/",
+            "api" : "https://mineallcrypto.com/works/pool",
+            "type" : "other"
+            },
+            {
+            "name" : "wtip.hashpool.frl",
+            "url" : "http://wtip.hashpool.frl/",
+            "api" : "http://wtip.hashpool.frl:8118",
+            "type" : "forknote"
+            },
+            {
+            "name" : "worktips.cryptoasiapool.com",
+            "url" : "http://worktips.cryptoasiapool.com/",
+            "api" : "http://121.100.24.8:8118",
+            "type" : "forknote"
+            },
+            {
+            "name" : "wtip-us.crypt29.net",
+            "url" : "https://wtip-us.crypt29.net/",
+            "api" : "http://wtip-us.crypt29.net/wtip-api/",
+            "type" : "forknote"
+            },
+            {
+            "name" : "worktipspool.xyz",
+            "url" : "http://worktipspool.xyz",
+            "api" : "http://worktipspool.xyz:8117",
+            "type" : "nodejs"
+            },
+    ]
+}
