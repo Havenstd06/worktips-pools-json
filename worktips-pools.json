@@ -15,7 +15,7 @@
             {
             "name" : "mineallcrypto.com/works",
             "url" : "https://mineallcrypto.com/works/",
-            "api" : "https://mineallcrypto.com/works/pool",
+            "api" : "https://mineallcrypto.com/works/pool/stats",
             "type" : "other"
             },
             {
